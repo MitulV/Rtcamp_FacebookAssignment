@@ -5,10 +5,6 @@
 * User can Download Album Photos in zip file to Their Device
 * User can Backup Album Photos to their Google Drive
 
-### Prerequisites
-- Facebook and Google accounts
-- Web Browser - any Browser
-- XAMP SERVER with PHP 7 
  
 ## Getting Started With
 1. Installation of the XAMP software from https://www.apachefriends.org/download.html
