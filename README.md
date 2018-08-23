@@ -20,10 +20,10 @@
 
 ## Built With
 * PHP 
-* BOOTSTRAP 
-* JavaScript 
 * Html
 * css
+* BOOTSTRAP 
+* JavaScript 
 
 ## Developer
 
