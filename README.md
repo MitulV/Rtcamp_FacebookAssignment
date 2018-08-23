@@ -13,9 +13,10 @@
 4. Now, write  localhost/Rtcamp_FacebookAssignment in browser
 5. login with facebook account
 
-## API References
+## External References
 * Facebook API - For Connecting with Facebook and Access Data
 * Google API - For connecting with Google and Access Data
+* Stackoverflow - conversion to Zip 
 
 ## Built With
 * PHP 
