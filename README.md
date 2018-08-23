@@ -27,7 +27,7 @@
 * JavaScript 
 
 ## Demo
-* Please Refer Screenshot for it
+* Please Refer Screenshots Folder for it
 
 ## Developer
 
