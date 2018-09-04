@@ -32,7 +32,7 @@
 * **Mitul Patel**
 
 ## Demo
-* http://www.rtcampchallenge.ml/
+* https://www.jayeshnai.tech/Rtcamp/
 * Because OF Free Hosting And Domain , If there is any Problem with the url then kindly Please Refer The Video And Screenshots Folder .
 
 
